@@ -1,0 +1,15 @@
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\bin\Debug\net6.0\Excercise2_Switch_Statements.exe
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\bin\Debug\net6.0\Excercise2_Switch_Statements.deps.json
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\bin\Debug\net6.0\Excercise2_Switch_Statements.runtimeconfig.json
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\bin\Debug\net6.0\Excercise2_Switch_Statements.dll
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\bin\Debug\net6.0\Excercise2_Switch_Statements.pdb
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.csproj.AssemblyReference.cache
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.AssemblyInfoInputs.cache
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.AssemblyInfo.cs
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.csproj.CoreCompileInputs.cache
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.dll
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\refint\Excercise2_Switch_Statements.dll
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.pdb
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\Excercise2_Switch_Statements.genruntimeconfig.cache
+C:\Users\miele\Source\Repos\arielmiele\c-sharp-and-unity-learning-path\Excercise2_Switch_Statements\obj\Debug\net6.0\ref\Excercise2_Switch_Statements.dll
